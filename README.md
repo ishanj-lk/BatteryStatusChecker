@@ -11,8 +11,4 @@ those calculations manually over and over again. So as a result I built this sim
 
 [Visit Site](https://ishan-sync.github.io/BatteryStatusChecker/)
 
-<!-- ---
-
---- -->
-
 ishan-sync
