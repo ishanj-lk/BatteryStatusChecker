@@ -7,4 +7,6 @@ as a solution for it. But I had issue with identify the current battery charging
 voltage. So I did some studies and found how to calculate. Be honest I am a lazy guy so I did not wanted to do
 those calculations manually over and over again. So as a result I built this simple web app to make that process easier.
 
+Visit Site - https://ishan-sync.github.io/batteryStatusChecker/
+
 ishan-sync
