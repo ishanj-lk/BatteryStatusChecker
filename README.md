@@ -1,6 +1,6 @@
 ## This project is a small project of mine. It basically give a solution to problem I faced recently.
 
-<img src='./img/screenshot.png' width='300px' height='auto'>
+<img src='./img/screenshot.PNG' width='300px' height='auto'>
 
 ### Let me explain in detail.
 
