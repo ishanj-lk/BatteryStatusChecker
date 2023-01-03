@@ -1,0 +1,99 @@
+/* @import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Andika:wght@700&display=swap');
+
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.mainContainer {
+    max-width: 1024px;
+    /* border: 1px solid black; */
+    min-height: 100vh;
+    margin: auto;
+    background-color: #F8F4EA;
+}
+
+.headingDiv {
+    text-align: center;
+    background-color: #3C4048;
+    color: #ffffff;
+    padding: 5px;
+    /* font-family: 'East Sea Dokdo', cursive; */
+    font-family: 'Andika', sans-serif;
+
+    font-weight: bold;
+}
+
+.row {
+    margin: auto;
+}
+
+.leftDiv {
+    order: 1;
+}
+
+.rightDiv {
+    order: 2;
+}
+
+.btnDiv {
+    text-align: center;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+}
+
+.whInput {
+    width: 90%;
+    margin: auto;
+}
+
+.input-group-prepend {
+    margin-top: 5px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.detailsDiv {
+    text-align: center;
+    position: relative;
+    display: block;
+    margin: auto;
+    top: 20%;
+    /* transform: translateY(-90%); */
+}
+
+#descriptionHead {
+    padding-bottom: 20px;
+}
+
+.detailsDiv p {
+    line-height: 10px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .leftDiv {
+        order: 2;
+        margin-top: 10px;
+    }
+
+    .rightDiv {
+        order: 1;
+    }
+
+    .btnDiv {
+        text-align: center;
+        margin-top: 15vh;
+        margin-bottom: 20vh;
+    }
+}
